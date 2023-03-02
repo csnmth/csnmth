@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csnmth
 - 👀 I’m interested in sports
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently learning Computer Engineering & IT security
 - 📫 How to reach me ...
 
 <!---
